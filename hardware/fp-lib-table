@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CrumpPrints)(type KiCad)(uri "$KIPRJMOD$(INCLUDES)CrumpPrints.pretty")(options "")(descr ""))
+  (lib (name CrumpPrintSymbols)(type KiCad)(uri "$KIPRJMOD$(INCLUDES)CrumpPrintSymbols.pretty")(options "")(descr ""))
+)
