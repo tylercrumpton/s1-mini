@@ -1,4 +1,4 @@
-from .pins import *
+from pins import *
 
 relay_state = False
 RELAY_PIN = D1
